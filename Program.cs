@@ -48,7 +48,7 @@ namespace GradeCalculatorApp
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter a numerical value between 0 and 100.");
+                    Console.WriteLine("Invalid input. Please enter a numerical (score) value between 0 and 100.");
                 }
 
                 Console.WriteLine("\nPress Enter to continue...");
